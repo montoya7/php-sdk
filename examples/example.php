@@ -1,4 +1,3 @@
-
 <?php
 // Awesome Facebook Application
 //
